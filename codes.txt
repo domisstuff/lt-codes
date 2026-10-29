@@ -1,0 +1,5 @@
+  # Lava Tower codes. One per line: the code, then what it gives.
+   #   coins=500  revives=1  trail=Mint  expires=2026-12-31  off
+   RELEASE  coins=500
+   LAVA     coins=250 revives=1
+   SPEEDY   trail=Mint
