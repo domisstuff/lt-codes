@@ -3,3 +3,4 @@
    RELEASE  coins=1000
    LAVA     coins=250 revives=1
    SPEEDY   trail=Mint
+   TESTER   revives=1000
